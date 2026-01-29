@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I’m Rachita 👋
 
-<!--
-**rachitakadam/rachitakadam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Data Analyst with hands-on experience in analyzing business data using SQL, Python, and Power BI.
 
-Here are some ideas to get you started:
+I focus on transforming raw data into meaningful insights that support decision-making across customer behavior, workforce analytics, and sales performance.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Skills
+- SQL (data analysis, KPIs, aggregations)
+- Python (data cleaning, EDA, visualization)
+- Power BI (interactive dashboards)
+- Business-oriented analytical thinking
+
+## 📊 Featured Projects
+- Customer Churn Analysis  
+- HR Attrition Analysis  
+- Sales Performance & Revenue Analysis  
+
+Each project demonstrates an end-to-end analytics workflow — from data preparation and analysis to insights and business recommendations.
